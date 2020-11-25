@@ -9,15 +9,17 @@ To use this tool you must have/include:
   <li>CSV file for conversion</li>
   <li>Census Tract Shapefile</li>
   <li>ArcMap Document Path</li>
+  <li>Output Folder path</li>
+</ul>
 
 # Instructions using Sample Data
-<ul>
+<ol>
   <li> Download the <i>Population Analysis.tbx</i> and add to ArcCatalog </li>
-  <li> Download sample input CSV and sample shapefile from <i>Sample Inputs.zip</i> and extract files to your C Drive: <i>C:\</i> </li>
-  <li>Download <i>My</i> folder onto your C Drive (the folder contains a <i>test.mxd</i> file where the map will be drawn)  </li>
- **If you want to extract files elsewhere make sure you also change the default <i>relative paths</i> in the GUI
+  <li> Download sample input CSV and sample shapefile from <i>Sample Inputs.zip</i> and extract files to <b>C:\</b> </li>
+  <li>Download <i>My</i> folder onto <b>C:\</b>  (the folder contains a <i>test.mxd</i> file where the map will be drawn)  </li>
+ <i>**If you want to extract files elsewhere make sure you also change the default relative paths in the GUI</i>
   <li> Run the script from ArcGIS Desktop and input GUI prompts (the default paramaters should work if paths werent changed)</li>
-</ul>
+</ol>
 
 # GUI
 
