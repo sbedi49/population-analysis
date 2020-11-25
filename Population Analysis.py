@@ -1,13 +1,3 @@
-# Name: Sarab Bedi
-# UnityID: sbedi
-###############################################
-# Input Example in case script fails:
-# Input CSV: C:\Users\sarab\Desktop\GIS540\popData.csv
-# Shapefile: C:\Users\sarab\Desktop\GIS540\Final Project\NCcounties.shp
-# Gender: 'Male', County: 'Mecklenburg County'
-# MXD path: C:\Users\sarab\Desktop\GIS540\Test\test.mxd
-# Output Folder: C:\Users\sarab\Desktop\GIS540\Test
-################################################
 import arcpy, sys, os
 
 # User inputs
