@@ -23,3 +23,4 @@ To use this tool you must have/include:
 
 # GUI
 
+<img src="https://github.com/sbedi49/population-analysis/blob/main/GUI.png?raw=true" alt="GUI" />
